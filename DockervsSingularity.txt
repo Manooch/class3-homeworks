@@ -1,0 +1,11 @@
+As a developer who works locally on a project, I'd rather use Docker due to the below reasons:
+
+- Time saving: because of the Docker image
+- Easier to simulate test and production environment
+- Fantastic library
+
+But I would prefer to use Singularity as a developer working in a big project in big team due to the below reasons:
+
+- Seems it's more common than Docker
+- More secure than Docker in terms of accessing to Linux kernel. In Docker, by default you have access to it unless an administrator denies your privilege.
+- No change in architecture + workflow required   
